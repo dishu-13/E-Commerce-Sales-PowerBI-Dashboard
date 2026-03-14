@@ -56,12 +56,6 @@ decision‑making.
 3.  Hover over visuals to view detailed data insights.
 4.  Interact with charts and maps to explore sales trends.
 
-## Project Structure
-
-    PowerBI Dashboard File (.pbix)
-    Dataset (Superstore Sales Data)
-    README.md
-
 ## Author
 
 **Dishu Daksh**\
